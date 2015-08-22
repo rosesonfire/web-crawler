@@ -1,6 +1,6 @@
 Web Crawler
 ===========
-
+A simple web crawler created using beautiful soup, this was created as a workshop demo for [**Path to Python**](https://www.facebook.com/events/835260999876079/)
 
 Installation
 ------------
@@ -12,3 +12,4 @@ Installation
 Running the crawler
 -------------------
 * Run the crawler using `python crawler.py [seed_url] [max_depth]`
+* In order to run the sample_site, go into the folder type `python -m SimpleHTTPServer`
